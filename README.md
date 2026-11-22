@@ -38,6 +38,7 @@ agenda_tugas_tp6.txt   (berkas data, dibuat otomatis saat data disimpan)
 4. Pilih menu dengan mengetik angka lalu tekan Enter.
 
 ## Contoh Penggunaan atau Output
+```
 === AGENDA TUGAS ===
 1. Tambah tugas
 2. Tampilkan tugas
@@ -50,6 +51,7 @@ Pilihan: 1
 ID tugas: T01
 Judul tugas: Mengerjakan jobsheet Git
 Tugas ditambahkan
+```
 
 ## Hasil Pengujian
 Pengujian dilakukan dengan 12 skenario, antara lain mulai tanpa berkas, tambah tugas valid, ID duplikat, judul kosong, cari tugas, ubah status, pilihan menu salah, simpan dan buka ulang, serta berkas rusak. Seluruh skenario berjalan sesuai hasil yang diharapkan.
