@@ -32,7 +32,7 @@ agenda_tugas_tp6.txt   (berkas data, dibuat otomatis saat data disimpan)
 ```
 
 ## Cara Menjalankan
-1. Clone repository: `git clone https://github.com/USERNAME/TP6_MiniProject_JonathanAaron.git`
+1. Clone repository: `git clone https://github.com/JonathanAaronn/TP6_MiniProject_JonathanAaron.git`
 2. Buka proyek di IntelliJ IDEA.
 3. Buka `src/Main.kt`, lalu klik tombol Run pada fungsi `main`.
 4. Pilih menu dengan mengetik angka lalu tekan Enter.
